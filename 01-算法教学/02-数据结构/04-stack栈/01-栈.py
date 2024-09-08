@@ -1,6 +1,6 @@
 
 # 栈完全可以用list代替
-
+from queue import LifoQueue
 class Stack:
     def __init__(self):
         self.sk = []

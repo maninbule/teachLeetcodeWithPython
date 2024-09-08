@@ -1,5 +1,5 @@
 '''
-https://leetcode.cn/problems/majority-element/description/?envType=problem-list-v2&envId=hash-table
+https://leetcode.cn/problems/majority-element/description/
 '''
 from typing import List
 class Solution:

@@ -1,6 +1,7 @@
 
 
 def create():
+    #table = {} # 代表set和dict
     table = dict()
     return table
 
