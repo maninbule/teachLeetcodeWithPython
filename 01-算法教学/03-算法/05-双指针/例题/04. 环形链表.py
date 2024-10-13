@@ -27,6 +27,7 @@ class ListNode:
 '''
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
+        "c".end
         if head is None or head.next is None:
             return False
         slow = head
